@@ -1,5 +1,5 @@
 # main.py
-def tambah(a, b):
-    return a + b
+def kurang(a, b):
+    return a - b
 
-print("Hasil:", tambah(3, 4))
+print("Kurang:", kurang(10, 3))
